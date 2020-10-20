@@ -1,7 +1,30 @@
 # jokenpo
 
-A jokenpo (rock, paper, scissors) game using Flutter
+A jokenpo (rock, paper, scissor) game using Flutter
 
+## Checklist
+
+### V1
+- [x] Create flutter structure 
+- [x] Create a Home component
+- [x] Create 3 buttons to represent rock, paper and scissor
+- [x] show at the screen what de option selected
+- [X] Implement a method that verify wich option is the winner of the round 
+- [x] Implement a bot option with one option
+- [x] Implement a bot with random options
+- [x] Check the round winner
+
+### V2
+- [ ] Compute the score!
+- [ ] Define the best of three winner
+- [ ] Store the score
+- [ ] Menu to select best of three or best of five
+
+### V3 
+- [ ] Multiplayer (...)
+- [ ] ...
+...
+- [ ] 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
